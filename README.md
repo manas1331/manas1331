@@ -31,7 +31,11 @@
 
 # GitHub Stats
 
-<p><img align="left" width = "50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=1deringmanas1331&show_icons=true&locale=en&layout=compact" alt="1deringmanas1331" /></p>
+<p><img align="left" width = "70%" src="https://github-readme-stats.vercel.app/api/top-langs?username=1deringmanas1331&show_icons=true&locale=en&layout=compact" alt="1deringmanas1331" /></p>
+<br>
+</br>
+<br>
+</br>
 <br>
 </br>
 <br>
