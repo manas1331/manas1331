@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manas.R</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img src="/coding.gif">
+<img src="/coding.1.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1deringmanas1331&label=Profile%20views&color=0e75b6&style=flat" alt="1deringmanas1331" /> </p>
