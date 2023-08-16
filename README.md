@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manas.R</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="500" src="[Coding GIF - Coding - Discover & Share GIFs](https://www.google.com/search?sca_esv=557467280&sxsrf=AB5stBhb-hsaRa-ipFjcLIRhljMDeorRPQ:1692196648610&q=animated+coding+gif&tbm=isch&source=lnms&sa=X&ved=2ahUKEwifnoXhs-GAAxVicGwGHdOKD08Q0pQJegQICxAB&biw=1865&bih=929&dpr=1#imgrc=wrwrUNpf_ATOtM)">
+<img align="right" alt="Coding" width="500" src="[[Coding GIF - Coding - Discover & Share GIFs](https://www.google.com/search?sca_esv=557467280&sxsrf=AB5stBhb-hsaRa-ipFjcLIRhljMDeorRPQ:1692196648610&q=animated+coding+gif&tbm=isch&source=lnms&sa=X&ved=2ahUKEwifnoXhs-GAAxVicGwGHdOKD08Q0pQJegQICxAB&biw=1865&bih=929&dpr=1#imgrc=wrwrUNpf_ATOtM)](https://github.com/1deringmanas1331/1deringmanas1331/blob/main/coding.gif)">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1deringmanas1331&label=Profile%20views&color=0e75b6&style=flat" alt="1deringmanas1331" /> </p>
