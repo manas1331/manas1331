@@ -36,14 +36,17 @@
 </br>
 <br>
 </br>
-<br>
-</br>
-<br>
-</br>
 
+<br>
+</br>
+<br>
+</br>
+<br>
+</br>
 
 <p>&nbsp;<img align="center" width = "60%" src="https://github-readme-stats.vercel.app/api?username=1deringmanas1331&show_icons=true&locale=en" alt="1deringmanas1331" /></p>
-
+<br>
+</br>
 <p><img align="center" width = "70%" src="https://github-readme-streak-stats.herokuapp.com/?user=1deringmanas1331&" alt="1deringmanas1331" /></p>
 
 ## Coding platforms
