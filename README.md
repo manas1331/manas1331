@@ -40,8 +40,7 @@
 </br>
 <br>
 </br>
-<br>
-</br>
+
 
 <p>&nbsp;<img align="center" width = "60%" src="https://github-readme-stats.vercel.app/api?username=1deringmanas1331&show_icons=true&locale=en" alt="1deringmanas1331" /></p>
 
