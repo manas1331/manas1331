@@ -1,3 +1,4 @@
+[![MasterHead](logo.jpeg)]
 <h1 align="center">Hi 👋, I'm Manas.R</h1>
 <h3 align="center">A passionate front-end developer from India</h3>
 <img src="coding.1.gif" align="right">
