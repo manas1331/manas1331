@@ -33,7 +33,7 @@
 # GitHub Stats
 
 <p><img align="left" width = "40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=1deringmanas1331&show_icons=true&locale=en&layout=compact" alt="1deringmanas1331" /></p>
-<p>&nbsp;<img align="right" width = "45%" src="https://github-readme-stats.vercel.app/api?username=1deringmanas1331&show_icons=true&locale=en" alt="1deringmanas1331" /></p>
+<p><img align="right" width = "45%" src="https://github-readme-stats.vercel.app/api?username=1deringmanas1331&show_icons=true&locale=en" alt="1deringmanas1331" /></p>
 <br>
 </br>
 <br>
