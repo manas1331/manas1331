@@ -1,6 +1,6 @@
 <img src="logo1.gif" align="center">
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=arial&weight=1500&size=40&pause=1350&color=ffffff&center=true&vCenter=true&width=435&lines=Hi,👋+I'm+Manas.R" alt="Typing SVG" /></a></h1>
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=arial&weight=1000&size=22&pause=1300&color=ffffff&center=true&vCenter=true&width=435&lines=A+passionate+Front-End+developer+from+India" alt="Typing SVG" /> </h3>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=arial&weight=1500&size=40&pause=1200&color=ffffff&center=true&vCenter=true&width=435&lines=Hi,👋+I'm+Manas.R" alt="Typing SVG" /></a></h1>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=arial&weight=1000&size=22&pause=1400&color=ffffff&center=true&vCenter=true&width=435&lines=A+passionate+Front-End+developer+from+India" alt="Typing SVG" /> </h3>
 <img src="coding.1.gif" align="right">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1deringmanas1331&label=Profile%20views&color=green&style=flat" alt="1deringmanas1331" /> </p>
