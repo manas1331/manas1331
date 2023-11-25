@@ -42,14 +42,14 @@
 
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=1deringmanas1331&show_icons=true&locale=en&layout=compact" alt="1deringmanas1331" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=1deringmanas1331&show_icons=true&locale=en&layout=compact" alt="1deringmanas1331" />
 </p>
 
 
 # Coding platforms
 
-<p align="center">
+
   <a href="https://www.codechef.com/users/manas1dering" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="manas1dering" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/1deringmanas1331" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="1deringmanas1331" height="40" width="50" /></a>
+<a href="https://www.leetcode.com/1deringmanas1331" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="1deringmanas1331" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/1deringmanas1331" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="1deringmanas1331" height="30" width="40" /></a>
-</p>
+
