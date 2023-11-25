@@ -32,12 +32,17 @@
 
 # GitHub Stats
 
-<p><img align="left" width = "43%" src="https://github-readme-stats.vercel.app/api/top-langs?username=1deringmanas1331&show_icons=true&locale=en&layout=compact" alt="1deringmanas1331" /></p>
+<p align="center">
+  <div style="display: flex; justify-content: space-between;">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=1deringmanas1331&show_icons=true&locale=en" alt="1deringmanas1331" />
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=1deringmanas1331&" alt="1deringmanas1331" />
+  </div>
+</p>
 
-<p><img align="middle" width = "55%" src="https://github-readme-stats.vercel.app/api?username=1deringmanas1331&show_icons=true&locale=en" alt="1deringmanas1331" /></p>
+
 
 <p align="center">
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=1deringmanas1331&" alt="1deringmanas1331" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=1deringmanas1331&show_icons=true&locale=en&layout=compact" alt="1deringmanas1331" />
 </p>
 
 
@@ -45,7 +50,6 @@
 
 <p align="center">
   <a href="https://www.codechef.com/users/manas1dering" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="manas1dering" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/1deringmanas1331" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="1deringmanas1331" height="40" width="50" /></a>
   <a href="https://www.hackerrank.com/1deringmanas1331" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="1deringmanas1331" height="30" width="40" /></a>
 </p>
-
-<a href="https://www.leetcode.com/1deringmanas1331" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="1deringmanas1331" height="40" width="50" /></a>
