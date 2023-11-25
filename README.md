@@ -39,7 +39,7 @@
   </div>
 </p>
 <p align="center">
-  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs?username=1deringmanas1331&show_icons=true&locale=en&layout=compact" alt="1deringmanas1331" />
+  <img  width=45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=1deringmanas1331&show_icons=true&locale=en&layout=compact" alt="1deringmanas1331" />
 </p>
 
 
