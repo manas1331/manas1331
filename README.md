@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1deringmanas1331&label=Profile%20views&color=045D5D&style=flat" alt="1deringmanas1331" /> </p>
 
  
-- 💻 I'm interested in learning **new domains in Computer Science**
+- 💻 I'm interested in learning **New domains in Computer Science**
 
 - 🌱 I’m currently learning **Computer Science**
 
