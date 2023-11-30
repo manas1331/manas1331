@@ -24,7 +24,7 @@
 <a href="https://auth.geeksforgeeks.org/user/1deringmanas1331" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="1deringmanas1331" height="30" width="40" /></a>
 </p>
 
-
+ 
 
 # Languages and Tools:
 
