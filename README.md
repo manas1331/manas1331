@@ -34,6 +34,10 @@
 <div style="display: flex; align-items: flex-start; align: left">
 <table align="center">
   <tr>
+<td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" />
+      <br>HTML5
+    </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="40" height="40" />
       <br>React
@@ -66,17 +70,15 @@
         <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="40" height="40" />
       <br>C#
     </td>
-  </tr>
-  <tr>
- 
-   <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" />
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
+<td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="css" />
       <br>CSS
     </td>
+  </tr>
+  <tr>
+ 
+   
+    
     
    
   </tr>
