@@ -1,4 +1,4 @@
-<img src="logo1.gif" align="center">  
+<img src="logo1.gif" align="center">   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=1600&size=40&pause=1200&color=01F9C6&center=true&vCenter=true&width=435&lines=Hi,👋+I'm+Manas.R" alt="Typing SVG" /></a></h1> 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
