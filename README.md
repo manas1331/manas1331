@@ -14,7 +14,7 @@
 
 - ✨ Exploring **Programming Languages**
 
-- 📫 How to reach me **manas.17.bgl@gmail.com**
+- 📫 How to reach me **manas.contact17@gmail.com**
 
 
 # Connect with me:
