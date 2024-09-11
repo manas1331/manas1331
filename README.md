@@ -126,12 +126,12 @@
 
 <p align="center">
   <div style="display: flex; justify-content: space-between;">
-    <img width="150%" src="https://github-readme-stats.vercel.app/api?username=manas1331&show_icons=true&locale=en" alt="1deringmanas1331" />
-    <img width="151%" src="https://github-readme-streak-stats.herokuapp.com/?user=manas1331&" alt="1deringmanas1331" />
+    <img width="121%" src="https://github-readme-stats.vercel.app/api?username=manas1331&show_icons=true&locale=en" alt="1deringmanas1331" />
+    <img width="121%" src="https://github-readme-streak-stats.herokuapp.com/?user=manas1331&" alt="1deringmanas1331" />
   </div>
 </p>
 <p align="center">
-  <img  width=250%" src="https://github-readme-stats.vercel.app/api/top-langs?username=manas1331&show_icons=true&locale=en&layout=compact" alt="1deringmanas1331" />
+  <img  width="200%" src="https://github-readme-stats.vercel.app/api/top-langs?username=manas1331&show_icons=true&locale=en&layout=compact" alt="1deringmanas1331" />
 </p>
 
 
