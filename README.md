@@ -126,8 +126,8 @@
 
 <p align="center">
   <div style="display: flex; justify-content: space-between;">
-    <img width="121%" src="https://github-readme-stats.vercel.app/api?username=manas1331&show_icons=true&locale=en" alt="1deringmanas1331" />
-    <img width="121%" src="https://github-readme-streak-stats.herokuapp.com/?user=manas1331&" alt="1deringmanas1331" />
+    <img width="80%" src="https://github-readme-stats.vercel.app/api?username=manas1331&show_icons=true&locale=en" alt="1deringmanas1331" />
+    <img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=manas1331&" alt="1deringmanas1331" />
   </div>
 </p>
 <p align="center">
