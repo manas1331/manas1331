@@ -151,6 +151,7 @@
   <a href="https://leetcode.com/manas1331/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="manas1331" height="200" width="200" /></a>
   <a href="https://leetcode.com/manas1331/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="manas1331" height="200" width="200" /></a>
   <a href="https://leetcode.com/manas1331/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas.gif" alt="manas1331" height="200" width="200" /></a>
+  <a href="https://leetcode.com/manas1331/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/lg2550.gif" alt="manas1331" height="200" width="200" /></a>
 <!--   <a href="https://leetcode.com//" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="200" width="200" /></a> -->
 </p>
 <p align="center">
