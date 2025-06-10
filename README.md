@@ -155,16 +155,16 @@
 <a href="https://www.leetcode.com/manas1331" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="1deringmanas1331" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/1deringmanas1331" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="1deringmanas1331" height="30" width="40" /></a>
 
-  # Leetcode Info
-<p align="center">
+
+<!--p align="center">
   <a href="https://leetcode.com/manas1331/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="manas1331" height="200" width="200" /></a>
   <a href="https://leetcode.com/manas1331/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="manas1331" height="200" width="200" /></a>
   <a href="https://leetcode.com/manas1331/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas.gif" alt="manas1331" height="200" width="200" /></a>
 <!--   <a href="https://leetcode.com/manas1331/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/lg2550.gif" alt="manas1331" height="200" width="200" /></a> -->
 <!--   <a href="https://leetcode.com//" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="200" width="200" /></a> -->
 </p>
-<p align="center">
+<!-- <p align="center">
   
   <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/manas1331?theme=dark&font=Nunito&ext=heatmap" />  
-</p>
+</p> -->
 
